@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/gui_display/gui_display.egg-info/PKG-INFO
+../../build/gui_display/gui_display.egg-info/SOURCES.txt
+../../build/gui_display/gui_display.egg-info/dependency_links.txt
+../../build/gui_display/gui_display.egg-info/entry_points.txt
+../../build/gui_display/gui_display.egg-info/requires.txt
+../../build/gui_display/gui_display.egg-info/top_level.txt
+../../build/gui_display/gui_display.egg-info/zip-safe
+gui_display/__init__.py
+gui_display/gui.py
+gui_display/quaternion.py
+resource/gui_display
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

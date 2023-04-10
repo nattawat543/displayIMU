@@ -1,0 +1,4 @@
+[console_scripts]
+display = gui_display.quaternion:main
+display2 = gui_display.gui:main
+
